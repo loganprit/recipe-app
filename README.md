@@ -24,7 +24,7 @@ The Recipe Tracker Application is built to be intuitive and user-friendly, allow
 
 ## Discoveries
 
-Throughout the development journey, the balance between form and function became evident. Embracing React's state management illuminated the path to an application that is as responsive as it is beautiful, underscoring the harmony between technical prowess and design elegance.
+As the project progressed, the importance of blending aesthetics with usability became clear. Utilizing React's robust state management features helped to create an app that's not only quick to respond but also visually appealing.
 
 ## Future Goals
 
