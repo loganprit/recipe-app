@@ -6,7 +6,7 @@ The Recipe Tracker Application is a digital solution aimed at those who cherish 
 
 ## Research/User Case
 
-Our research highlighted a common thread among cooking enthusiasts: the desire for a streamlined method to curate and access their recipes. Whether planning a family dinner or experimenting with new cuisines, users needed a platform that was as mobile and dynamic as their culinary adventures. This application caters to this need, serving as a virtual kitchen assistant.
+The research highlighted a common thread among cooking enthusiasts: the desire for a streamlined method to curate and access their recipes. Whether planning a family dinner or experimenting with new cuisines, users needed a platform that was as mobile and dynamic as their culinary adventures. This application caters to this need, serving as a virtual kitchen assistant.
 
 ## Intended Use
 
